@@ -2,3 +2,4 @@ logs/
 airflow.db
 *.pyc
 __pycache__/
+airflow_env/
